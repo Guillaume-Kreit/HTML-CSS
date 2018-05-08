@@ -1,0 +1,43 @@
+html 
+{
+	box-sizing: border-box;
+}
+
+body 
+{
+	background-color: #FFEE74;
+}
+
+header
+{
+    background-color: #FFFF6A;
+    color: black;
+    border: 3px solid #E85D18;
+    margin: 50px;
+    padding: 12px;
+    text-align: justify;
+    width: 300px;
+
+}
+
+section
+{
+    background-color: #FFFF6A;
+    color: black;
+    border: 3px solid #E85D18;
+    margin: 50px;
+    padding: 12px;
+    text-align: justify;
+    width: 900px;
+}
+
+h1,h2
+{
+	color: #E85D18;
+}
+
+img
+{
+	width: 100px;
+	height: 100px;
+}
